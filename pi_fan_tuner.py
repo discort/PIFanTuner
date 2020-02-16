@@ -13,7 +13,7 @@ from cmdtree import option
 
 
 GPIO_CONTROL_PORT = 12
-FAN_ON_TEMPERATURE = 45
+FAN_ON_TEMPERATURE = 55
 
 
 def get_cpu_temp():
